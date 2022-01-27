@@ -1,0 +1,1 @@
+The Income prediction project consists of various different models used for predicting incomes. It is a classification problem that shows whether a person has a salary above $50k per year or not. Many popular classification algorithms were used in its making.
